@@ -1,0 +1,16 @@
+//This file was a trigger in GTM
+Trigger type: Click - Just Links
+
+Wait for Tags
+Max wait time 2000 milliseconds
+
+Enable this trigger when all of these conditions are tru
+Page URL contains/magazine
+
+This trigger fires on
+Child of view view-stanford-magazine-issue-most-recent view-id-stanford_magazine_issue_most_recent view-display-id-block hero-curtain view-dom-id-ad11176cbddf99b8cf99bba9f74dc2c7 
+
+References to this trigger
+
+UA Event on eng mag feature
+Tag
