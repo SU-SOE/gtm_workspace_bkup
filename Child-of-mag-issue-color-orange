@@ -1,0 +1,5 @@
+function () {
+   var e = {{element}}; // start with the clicked element
+   while(e && e.className != 'mag-issue-color-orange') e=e.parentElement; // check “up” the hierarchy until we find a nav-bar right element or we’ve reach the top of the document
+   return e!==null; // return true if the clicked element is a child of NAV
+   }
