@@ -1,0 +1,17 @@
+//This file was a trigger in GTM
+
+Trigger type
+Click -Just Links
+
+Wait for tags
+Max wait time 2000 milliseconds
+
+Enable this condition when all of these conditions are true
+Page url contains .*
+
+This trigger fires on
+child of ga-scroll-tracking
+
+References to this trigger
+UA Event on eng mag scroll button
+Tag
