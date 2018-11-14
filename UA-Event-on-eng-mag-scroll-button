@@ -1,0 +1,35 @@
+//This file was a tag in GTM
+
+Tag Configuration
+Tag Type
+Google Analytics - Universal Analytics
+Google Marketing Platform
+Track Type
+Event
+Category
+eng-mag-scroll-button
+Action
+{{Page URL}}
+Label
+{{Click Text}} - {{Click URL}}
+Google Analytics Settings 
+ Enable overriding settings in this tag 
+Tracking ID 
+{{UA-XXXXXXX-XX}}
+Ecommerce
+Enable Enhanced Ecommerce Features 
+False
+Advertising
+Enable Display Advertising Features 
+False
+Advanced Configuration
+Use Debug Version
+False
+Enable Enhanced Link Attribution
+False
+Set Tracker Name 
+False
+Triggering
+Firing Triggers
+magazine scroll button
+Just Links
