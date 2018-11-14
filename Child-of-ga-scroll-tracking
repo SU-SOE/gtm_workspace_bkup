@@ -1,5 +1,5 @@
 //This file was a variable in GTM
-
+//This variable was added. it does not exist in version 12
 function () {
    var e = {{element}}; // start with the clicked element
    while(e && e.className != 'ga-scroll-tracking') e=e.parentElement; // check “up” the hierarchy until we find a nav-bar right element or we’ve reach the top of the document
